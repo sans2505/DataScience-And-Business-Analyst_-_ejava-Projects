@@ -1,2 +1,1 @@
-# The-sparks-foundation
-#GRIPOCTOBER2023
+Personal Projects
